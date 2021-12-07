@@ -1,0 +1,12 @@
+Correctly_Masked
+Incorrectly_Masked
+No_Mask
+
+python detect.py --weights runs/train/exp/weights/best.pt --img 416 --conf 0.1 --source {dataset.location}/test/images
+
+
+For image
+python detect.py --source MyProject/test/images --weights runs/exp/weights/best.pt --conf 0.25 --name toshiro
+python detect.py --source MyProject/test/images --weights runs/exp/weights/best2.pt --conf 0.25 --name toshiro2
+For webcam
+python detect.py --source 0 --weights runs/exp/weights/best2.pt --conf 0.25 --name toshiro
