@@ -1,0 +1,1 @@
+# Machine-Vision-for-Detecting-Minimum-Health-Standards-in-the-CoVid-19-Pandemic
