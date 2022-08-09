@@ -1,4 +1,5 @@
-## Thesis Title: Machine Vision for Detecting Minimum Health Standards in the CoVid-19 Pandemic
+### Thesis Title: 
+### Machine Vision for Detecting Minimum Health Standards in the CoVid-19 Pandemic
 
 ### Sample Outputs
 ![278846899_358701199396899_1013958606873164162_n](https://user-images.githubusercontent.com/15859284/177238810-5c508c91-ee45-444f-afd6-42212289d6ff.jpg)
