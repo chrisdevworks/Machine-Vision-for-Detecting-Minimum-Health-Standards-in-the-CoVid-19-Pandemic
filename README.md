@@ -1,9 +1,9 @@
 ### Features
 * Face Recognition
-* Face Mask Recogniton with 3 classification
-  * With Mask
-  * Improperly Mask
-  * No Mask
+* Face Mask Recogniton with 3 classifications
+  * With_Mask
+  * Incorrectly_Mask
+  * No_Mask
 * Human Body Recogniton used for Distance Detection
 
 
