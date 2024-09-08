@@ -5,7 +5,7 @@
   * Incorrectly_Mask
   * No_Mask
 * Face Mask Recognition Counters
-* Human Body Recognition used for Distance Detection
+* Distance Detection
 
 
 ### Sample Outputs
