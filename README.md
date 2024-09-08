@@ -1,9 +1,9 @@
 ### Features
-* Face Recognition with Distance Detection 
 * Face Mask Recognition with 3 classifications
   * With_Mask
   * Incorrectly_Mask
   * No_Mask
+* Distance Detection
 * Face Mask Recognition Counters
 
 
